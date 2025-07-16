@@ -17,8 +17,7 @@
         "psr/log": "^3.0"
     },
 
-    This is a Test Change to show Shathi
-    "require-dev": {
+        "require-dev": {
         "codeigniter/coding-standard": "^1.7",
         "fakerphp/faker": "^1.24",
         "friendsofphp/php-cs-fixer": "^3.47.1",
